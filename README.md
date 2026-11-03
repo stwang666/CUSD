@@ -1,7 +1,5 @@
 # CUSD
 
-Source code for reproducing the experiments in:
-
 > **Separating Common and Unique Directions for Data-Free Model Merging**
 >
 
